@@ -1,2 +1,4 @@
 # SYLiveStrem
 该工程是仿写的映客直播项目 swift与oc混编
+
+其中SYLiveStrem.zip是整个工程的压缩版本是包含了所有工程相关文件 除去.zip包 剩下的文件也是该工程文件，但是因为GitHub的100mb限制，其中一个框架没上传成功，zip包中包含该框架
